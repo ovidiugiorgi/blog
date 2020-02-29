@@ -4,11 +4,10 @@ title: Contact me
 slug: contact
 draft: false
 ---
-Want to work together or have a question? Contact me below.
+Want to work together or have a chat? Contact me by filling in the fields below.
 
-<form name="contact" method="POST" data-netlify="true" netlify>
-
-<p>
+<form name="contact" method="POST" netlify action="thank-you">
+  <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
   <p>
@@ -20,5 +19,4 @@ Want to work together or have a question? Contact me below.
   <p>
     <button type="submit">Send</button>
   </p>
-
-<form>
+</form>
