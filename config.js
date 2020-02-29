@@ -18,17 +18,13 @@ module.exports = {
     {
       label: "About me",
       path: "/pages/about"
-    },
-    {
-      label: "Contact me",
-      path: "/pages/contacts"
     }
   ],
   author: {
     name: "Ovidiu Giorgi",
     photo: "/photo.jpg",
     bio:
-      "Software engineer interested in distributed systems and cloud computing. Often bores people with his rants.",
+      "Software engineer interested in distributed systems and cloud computing. Often annoys people with his rants.",
     contacts: {
       email: "",
       facebook: "",
