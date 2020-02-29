@@ -6,7 +6,7 @@ draft: false
 ---
 Want to work together or have a question? Contact me below.
 
-<form name="contact" method="POST" netlify action="thank-you">
+<form name="contact" method="POST" netlify>
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
