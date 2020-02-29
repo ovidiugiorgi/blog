@@ -6,9 +6,8 @@ draft: false
 ---
 Want to work together or have a question? Contact me below.
 
-<form name="contact" method="POST" netlify data-netlify="true" data-netlify-honeypot="bot-field">
-
-<p>
+<form name="contact" method="POST" netlify action="thank-you">
+  <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
   <p>
@@ -20,5 +19,4 @@ Want to work together or have a question? Contact me below.
   <p>
     <button type="submit">Send</button>
   </p>
-
-<form>
+</form>
