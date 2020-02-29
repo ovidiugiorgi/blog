@@ -1,10 +1,10 @@
 "use strict";
 
 module.exports = {
-  url: "https://lumen.netlify.com",
+  url: "https://ovidiugiorgi.netlify.com",
   pathPrefix: "/",
-  title: "Blog by Ovidiu Giorgi",
-  subtitle: "Thoughts on Software",
+  title: "A Software Journey",
+  subtitle: "My journey learning and talking about all things software",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: "Articles",
+      label: "Blog",
       path: "/"
     },
     {
@@ -28,17 +28,17 @@ module.exports = {
     name: "Ovidiu Giorgi",
     photo: "/photo.jpg",
     bio:
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+      "Software engineer interested in distributed systems and cloud computing. Often bores people with his rants.",
     contacts: {
       email: "",
-      facebook: "#",
-      telegram: "#",
-      twitter: "#",
-      github: "#",
+      facebook: "",
+      telegram: "",
+      twitter: "ovidiugiorgi",
+      github: "ovidiugiorgi",
       rss: "",
       vkontakte: "",
-      linkedin: "#",
-      instagram: "#",
+      linkedin: "ovidiugiorgi",
+      instagram: "",
       line: "",
       gitlab: "",
       weibo: "",
