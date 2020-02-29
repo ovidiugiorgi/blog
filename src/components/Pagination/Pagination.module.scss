@@ -1,5 +1,5 @@
-@import '../../assets/scss/variables';
-@import '../../assets/scss/mixins';
+@import "../../assets/scss/variables";
+@import "../../assets/scss/mixins";
 
 .pagination {
   @include margin-top(2);
@@ -11,7 +11,7 @@
 
     &-link {
       color: $color-secondary;
-      font-size: 26px;
+      font-size: 20px;
       font-weight: bold;
 
       &:hover,
@@ -23,9 +23,7 @@
         pointer-events: none;
         color: lighten($color-gray, 20%);
       }
-
     }
-
   }
 
   &__next {
@@ -34,7 +32,7 @@
 
     &-link {
       color: $color-secondary;
-      font-size: 26px;
+      font-size: 20px;
       font-weight: bold;
 
       &:hover,
@@ -46,9 +44,6 @@
         pointer-events: none;
         color: lighten($color-gray, 20%);
       }
-
     }
-
   }
-
 }
