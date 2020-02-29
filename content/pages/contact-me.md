@@ -4,7 +4,7 @@ title: Contact me
 slug: contact
 draft: false
 ---
-Want to work together or have a question? Contact me below.
+Want to work together or have a chat? Contact me by filling in the fields below.
 
 <form name="contact" method="POST" netlify action="thank-you">
   <p>
