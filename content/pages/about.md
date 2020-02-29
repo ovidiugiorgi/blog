@@ -1,13 +1,9 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/image-2.jpg"
+template: page
+title: About me
+slug: about-me
+draft: false
 ---
+I'm a software engineer based in Bucharest, Romania. I've got about 4 years worth of work experience, mostly focusing on web technologies. I've enjoyed wearing different hats and performing different roles, ranging from frontend to backend development. I enjoy learning about the intricacies and motivations of software systems. I've also been told I enjoy talking too much about some things.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
-
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+I've got an ever-growing list of things to learn and would like share my experiences with you through this blog. Most recently I've been focused on the awesome and convoluted worlds of distributed systems and cloud computing. Posts may appear disorderly while I explore different avenues, but I think there's real value in letting your explorations guide you to new things, so I invite you to enjoy this journey through software with me.
