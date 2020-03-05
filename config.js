@@ -1,18 +1,18 @@
 "use strict";
 
 module.exports = {
-  url: "https://ovidiugiorgi.netlify.com",
+  url: "https://ovidiugiorgi.com",
   pathPrefix: "/",
-  title: "A Software Journey",
+  title: "Ovidiu Giorgi",
   subtitle: "My journey learning and talking about all things software",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
-  googleAnalyticsId: "UA-73379983-2",
+  googleAnalyticsId: "UA-159821653-1",
   useKatex: false,
   menu: [
     {
-      label: "Articles",
+      label: "Blog",
       path: "/"
     },
     {
