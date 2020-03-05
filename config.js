@@ -4,7 +4,7 @@ module.exports = {
   url: "https://ovidiugiorgi.com",
   pathPrefix: "/",
   title: "Ovidiu Giorgi",
-  subtitle: "A journey about learning and talking about all things software.",
+  subtitle: "A journey through software.",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
