@@ -3,7 +3,7 @@
 module.exports = {
   url: "https://ovidiugiorgi.com",
   pathPrefix: "/",
-  title: "Ovidiu Giorgi",
+  title: "Ovidiu's Blog",
   subtitle: "A journey through software.",
   copyright: "© All rights reserved.",
   disqusShortname: "",
