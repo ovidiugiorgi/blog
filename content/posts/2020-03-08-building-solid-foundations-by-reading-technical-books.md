@@ -64,8 +64,6 @@ Hands-on books tend to be very specialised and contain a lot of code snippets, c
 
 Reading books that lie more on the theoretical side will help you build a solid foundation in the topics you are interested in. Some examples for this category include: [Uncle Bob’s Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) or[ John Ousterhout’s A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout-ebook/dp/B07N1XLQ7D). In general they tend to be easier to read and digest than the hands-on approach. They tackle subjects at higher levels and usually provide some food for thought which you can share with your co-workers — a great way to share ideas and build a continuous learning culture.
 
-In the end, it doesn’t matter too much what kind of book you choose to go for, but rather to whet your appetite for reading and start to see the benefits it can provide. Think about what you’ve always wanted to learn or explore, choose a book, and just go for it. Enjoy!
-
-...
+In the end, it doesn’t matter too much what kind of book you choose to go for, but rather to whet your appetite for reading and start to see the benefits it can provide. Think about what you’ve always wanted to learn or explore, choose a book, and just go for it.
 
 *Originally published on [Medium](https://medium.com/@ovidiugiorgi/reading-technical-books-5598877e6edd).*
