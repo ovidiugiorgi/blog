@@ -1,6 +1,6 @@
 ---
 template: post
-title: Building solid foundations by reading technical books
+title: Building a solid foundation by reading technical books
 slug: reading-tech-books
 draft: false
 date: 2020-03-08T11:32:49.437Z
@@ -11,7 +11,6 @@ category: books
 tags:
   - Books
   - Habit Building
-socialImage: "/media/spiderman-reading.jpeg"
 ---
 
 What are technical books, why I think they are a great way to build up your knowledge and how to develop a reading habit.
