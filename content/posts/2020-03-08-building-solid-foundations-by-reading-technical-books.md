@@ -11,6 +11,7 @@ category: books
 tags:
   - Books
   - Habit Building
+socialImage: "/media/spiderman-reading.jpeg"
 ---
 
 What are technical books, why I think they are a great way to build up your knowledge and how to develop a reading habit.
